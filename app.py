@@ -276,7 +276,7 @@ def display_message(text):
 
 st.set_page_config(page_title="ASCII Message", layout="centered")
 
-st.title("🎉 Love You chitti")
+st.title("")
 
 # 🔗 Read message from URL
 params = st.experimental_get_query_params()
